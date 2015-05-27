@@ -1,0 +1,104 @@
+fileFormatVersion: 2
+guid: 4846b9d315b3e0b4d88e8c57a4ff7e79
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Windows
+    21300002: Medieval_UI
+    21300004: Medieval_UI_powerup_hud
+    21300006: Medieval_UI_powerup_bar
+    21300008: Medieval_UI_power_icon
+    21300010: Medieval_UI_sabotage_icon
+    21300012: Medieval_UI_assist_icon
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 4096
+  textureSettings:
+    filterMode: -1
+    aniso: 1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: Medieval_UI_powerup_hud
+      rect:
+        serializedVersion: 2
+        x: 4260
+        y: 2777
+        width: 759
+        height: 182
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Medieval_UI_powerup_bar
+      rect:
+        serializedVersion: 2
+        x: 5093
+        y: 4094
+        width: 524
+        height: 81
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Medieval_UI_power_icon
+      rect:
+        serializedVersion: 2
+        x: 619
+        y: 4168
+        width: 157
+        height: 166
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Medieval_UI_sabotage_icon
+      rect:
+        serializedVersion: 2
+        x: 1371
+        y: 4163
+        width: 179
+        height: 171
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Medieval_UI_assist_icon
+      rect:
+        serializedVersion: 2
+        x: 1952
+        y: 4160
+        width: 184
+        height: 159
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
